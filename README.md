@@ -1,4 +1,4 @@
-# Xenium Breast Cancer Analysis
+# Xenium Cancer Analysis
 
 This repository contains an analysis of spatial transcriptomics cancer data using the [10x Genomics Xenium](https://www.10xgenomics.com/products/xenium) platform.
 
