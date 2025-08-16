@@ -1,0 +1,26 @@
+# Virtual environment (modify the name if your environment folder has a different name)
+venv/
+.venv/
+.env/
+
+# IDE configuration files (VSCode)
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Log and cache files
+*.log
+*.cache
+
+# Jupyter Notebook checkpoints (automatic backups)
+.ipynb_checkpoints/
+
+# Environment configuration with secret variables
+.env
