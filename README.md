@@ -4,15 +4,15 @@ This repository contains an analysis of spatial transcriptomics cancer data usin
 
 ## Project Structure
 
-1. Molecular Data Analysis → for the file related to molecular data
+1. Molecular Data Analysis 
 
-2. Molecular Signature Analysis → for the file on molecular signatures
+2. Molecular Signature Analysis 
 
-3. Neighbor Analysis → for the file on neighbor analysis
+3. Neighbor Analysis 
 
-4. Histological Features Analysis → for the file on histological features
+4. Histological Features Analysis 
 
-5. Integrative Features Analysis → for the file that integrates all features
+5. Integrative Features Analysis 
    
 - `requirements.txt` – List of required Python packages.
 
