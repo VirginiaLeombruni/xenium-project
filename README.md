@@ -1,6 +1,6 @@
 # Cellular Classification in Breast Cancer Spatial Transcriptomics Data
 
-This repository contains the analysis of spatial transcriptomics breast cancer data using the [10x Genomics Xenium](https://www.10xgenomics.com/products/xenium) platform. The project focuses on classifying epithelial cells as Normal or Malignant, with special attention to cells labeled as *Unknown*.
+This repository contains the analysis of spatial transcriptomics breast cancer data using the [10x Genomics Xenium](https://www.10xgenomics.com) platform. The project focuses on classifying epithelial cells as Normal or Malignant, with special attention to cells labeled as *Unknown*.
 
 ## Project Structure
 
